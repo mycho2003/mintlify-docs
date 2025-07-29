@@ -63,7 +63,14 @@
           {
             "petstore_auth": ["write:pets", "read:pets"]
           }
-        ]
+        ],
+        "x-mint": {
+          "metadata": {
+            "title": "This is cool"
+          },
+          "content": "## Steve minecraft",
+          "href": "/api/mycho"
+        }
       },
       "put": {
         "tags": ["pet"],
