@@ -19,7 +19,7 @@
           },
           {
             "group": "Get Started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": ["index", "quickstart", "development", "/hihi/hideonsegtree"]
           },
           {
             "group": "Essentials",
