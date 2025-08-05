@@ -71,7 +71,7 @@
             "openapi": "this sucks"
           },
           "content": "## Basic????\n### Inline Code\nTo denote a `word` or `phrase` as code, enclose it in backticks (`).\n```\nTo denote a `word` or `phrase` as code, enclose it in backticks (`).\n```",
-          "href": "/hihi/hideonsegtree"
+          "href": "essentials/markdown"
         }
       },
       "put": {
