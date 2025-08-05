@@ -67,7 +67,8 @@
         "x-mint": {
           "metadata": {
             "title": "This is cool",
-            "description": "This isn't as cool"
+            "description": "This isn't as cool",
+            "openapi": "this sucks"
           },
           "content": "## Basic????\n### Inline Code\nTo denote a `word` or `phrase` as code, enclose it in backticks (`).\n```\nTo denote a `word` or `phrase` as code, enclose it in backticks (`).\n```",
           "href": "/hihi/hideonsegtree"
