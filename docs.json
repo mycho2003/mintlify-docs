@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "OpenAPI",
+            "openapi": "openapi.json"
             "pages": ["quickstart", "openapi.json GET /pet/findByTags"]
           },
           {
