@@ -20,10 +20,11 @@
               "GET /pet/findByTags",
               "GET /pet/findByStatus",
               "GET /pet/{petId}",
+              "POST /pet",
               {
                 "group": "hoho",
                 "openapi": "openapi2.json",
-                "pages": ["index", "GET /pet/findByTags"]
+                "pages": ["index", "GET /pet/findByTags", "POST /pet"]
               }
             ]
           },
