@@ -9,14 +9,14 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "openapi": "openapi2.json",
+    "openapi": "openapi.json",
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
             "group": "OpenAPI",
-            "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi.json POST /pet"]
+            "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi2.json POST /pet"]
           },
           {
             "group": "Get Started",
