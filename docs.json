@@ -9,13 +9,13 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "openapi": "openapi.json",
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
             "group": "OpenAPI",
+            "openapi": "openapi.json",
             "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi2.json POST /pet"]
           },
           {
