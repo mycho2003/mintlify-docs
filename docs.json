@@ -16,7 +16,10 @@
           {
             "group": "OpenAPI",
             "openapi": "openapi.json",
-            "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi2.json POST /pet"]
+            "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi2.json POST /pet", {
+              "group": "hoho",
+              "pages": ["essentials/navigation", "GET /pet"]
+            }]
           },
           {
             "group": "Get Started",
