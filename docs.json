@@ -23,7 +23,7 @@
               {
                 "group": "hoho",
                 "openapi": "openapi2.json",
-                "pages": ["index"]
+                "pages": ["index", "GET /pet/findByTags"]
               }
             ]
           },
