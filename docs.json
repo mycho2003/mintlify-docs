@@ -15,7 +15,8 @@
         "groups": [
           {
             "group": "OpenAPI",
-            "openapi": "openapi.json"
+            "openapi": "openapi.json",
+            "pages": ["quickstart", "GET /pet/findByTags", "index", "POST /pet", "essentials/markdown", "openapi2.json POST /pet"]
           },
           {
             "group": "Get Started",
