@@ -22,7 +22,8 @@
               "GET /pet/{petId}",
               {
                 "group": "hoho",
-                "openapi": "openapi2.json"
+                "openapi": "openapi2.json",
+                "pages": ["index"]
               }
             ]
           },
