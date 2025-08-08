@@ -15,11 +15,11 @@
         "groups": [
           {
             "group": "OpenAPI",
-            "openapi": "openapi.json"
+            "pages": ["quickstart", "openapi.json GET /pet/findByTags"]
           },
           {
             "group": "Get Started",
-            "pages": ["index", "quickstart", "development", "/hihi/hideonsegtree"]
+            "pages": ["index", "quickstart", "development"]
           },
           {
             "group": "Essentials",
