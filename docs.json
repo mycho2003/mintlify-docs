@@ -16,7 +16,6 @@
         "groups": [
           {
             "group": "OpenAPI",
-            "openapi": "openapi.json",
             "pages": [
               "GET /pet/findByTags",
               "GET /pet/findByStatus",
