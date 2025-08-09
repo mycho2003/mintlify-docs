@@ -12,6 +12,7 @@
     "tabs": [
       {
         "tab": "Guides",
+        "openapi": "openapi.json",
         "groups": [
           {
             "group": "OpenAPI",
@@ -47,6 +48,7 @@
       },
       {
         "tab": "API Reference",
+        "openapi": "openapi2.json",
         "groups": [
           {
             "group": "API Documentation",
