@@ -15,7 +15,7 @@
         "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
         "groups": [
           {
-            "group": "OpenAPI",
+            "group": "Open",
             "pages": [
               "GET /pet/findByTags",
               "GET /pet/findByStatus",
